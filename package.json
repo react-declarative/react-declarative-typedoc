@@ -13,9 +13,12 @@
   "license": "MIT",
   "description": "",
   "devDependencies": {
-    "http-server": "14.1.1",
     "@types/node": "8.0.0",
-    "typescript": "4.6.2",
-    "typedoc": "0.26.3"
+    "http-server": "14.1.1",
+    "typedoc": "0.26.3",
+    "typescript": "4.6.2"
+  },
+  "dependencies": {
+    "react-declarative": "2.6.90"
   }
 }
