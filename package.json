@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "postinstall": "sh ./scripts/postinstall",
+    "postinstall": "sh ./scripts/postinstall.sh",
     "build:docker": "docker-compose up",
     "build": "typedoc",
     "preview": "http-server ./build"
