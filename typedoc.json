@@ -1,0 +1,8 @@
+{
+    "entryPoints": ["./packages/react-declarative/src/index.ts"],
+    "name": "react-declarative",
+    "includeVersion": true,
+    "logLevel": "Verbose",
+    "out": "./build",
+    "tsconfig": "./packages/react-declarative/tsconfig.json"
+}

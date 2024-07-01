@@ -1,0 +1,3 @@
+[submodule "packages/react-declarative"]
+	path = packages/react-declarative
+	url = https://github.com/react-declarative/react-declarative.git
