@@ -1,6 +1,6 @@
 # ⚛️ react-declarative-typedoc
 
-> The [react-declarative](https://github.com/react-declarative/react-declarative) documentation website generator
+> The [react-declarative](https://github.com/react-declarative/react-declarative) documentation website generator. The online preview available by this link: [https://react-declarative-typedoc.github.io/](https://react-declarative-typedoc.github.io/)
 
 ![screenshot](./assets/screenshot.png)
 
